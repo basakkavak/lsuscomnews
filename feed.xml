@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0">
+    <channel>
+        <title>LSUS Community Events</title>
+        <link>https://www.lsus.edu/why-lsus/calendar</link>
+        <description>Weekly updates on LSUS campus events and sports</description>
+        <language>en-us</language>
+
+        <!-- Week 1 Events -->
+        <item>
+            <title>Week 1 Events: November 1-4</title>
+            <description>Catch the Student Organization Council Meeting on Nov 1 at 11 a.m. in the Student Organization Lounge, followed by Hamlet: Piloting a Shakespeare Experience on Nov 4 at 11 a.m. and 6 p.m. in the University Center Theater. Daylight Saving Time ends on Nov 3, so don’t forget to set your clocks back!</description>
+            <pubDate>Fri, 01 Nov 2024 10:00:00 CST</pubDate>
+            <link>https://www.lsus.edu/why-lsus/calendar</link>
+        </item>
+
+        <!-- Week 2 Events -->
+        <item>
+            <title>Week 2 Events: November 5-11</title>
+            <description>It’s Election Day on Nov 5! The Health & Wellness Fair is on Nov 6 from 10 a.m. to noon in the UC Ballroom. Veterans Day is on Nov 11, and World Kindness Week kicks off the same day with a virtual scavenger hunt at noon. In sports, catch Men's Basketball on Nov 5 at 6 p.m. and Women’s Soccer vs Texas A&M-San Antonio on Nov 7 at 1 p.m.</description>
+            <pubDate>Tue, 05 Nov 2024 10:00:00 CST</pubDate>
+            <link>https://www.lsus.edu/why-lsus/calendar</link>
+        </item>
+
+        <!-- Week 3 Events -->
+        <item>
+            <title>Week 3 Events: November 12-18</title>
+            <description>World Kindness Week continues through Nov 17. On Nov 21, both Women’s and Men’s Basketball teams play Texas College in a doubleheader, starting at 5:30 p.m. and 7:30 p.m. Catch the games and cheer on the Pilots!</description>
+            <pubDate>Tue, 12 Nov 2024 10:00:00 CST</pubDate>
+            <link>https://www.lsus.edu/why-lsus/calendar</link>
+        </item>
+
+        <!-- Week 4 Events -->
+        <item>
+            <title>Week 4 Events: November 25-30</title>
+            <description>Celebrate Thankful Monday on Nov 25 from 11 a.m. to noon, then enjoy Thanksgiving on Nov 28. Don’t miss Women’s and Men’s Basketball on Nov 26 against Louisiana Christian at 5:30 p.m. and 7:30 p.m.</description>
+            <pubDate>Mon, 25 Nov 2024 10:00:00 CST</pubDate>
+            <link>https://www.lsus.edu/why-lsus/calendar</link>
+        </item>
+
+    </channel>
+</rss>
